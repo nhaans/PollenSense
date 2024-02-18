@@ -1,0 +1,14 @@
+{
+  "name": "responsive_landing_page_design_|_website_home_page_design_|_agency_website_ui_design_(community)_-_1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel ./*.html ",
+    "build": "parcel build ./*.html  --dist-dir ./build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
